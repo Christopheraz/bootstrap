@@ -2,7 +2,10 @@
 layout: docs
 title: Close icon
 description: Use a generic close icon for dismissing content like modals and alerts.
-group: utilities
+menu:
+  docs:
+    parent: utilities
+    weight: 0
 toc: true
 ---
 

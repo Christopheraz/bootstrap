@@ -2,7 +2,10 @@
 layout: docs
 title: Sizing
 description: Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.
-group: utilities
+menu:
+  docs:
+    parent: utilities
+    weight: 0
 toc: true
 ---
 

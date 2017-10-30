@@ -1,7 +1,10 @@
 ---
 layout: docs
 title: Wall of browser bugs
-group: browser-bugs
+menu:
+  docs:
+    name: browser-bugs
+    weight: 0
 ---
 
 Bootstrap currently works around several outstanding browser bugs in major browsers to deliver the best cross-browser experience possible. Some bugs, like those listed below, cannot be solved by us.
